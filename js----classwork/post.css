@@ -1,0 +1,76 @@
+
+    
+    .fb{
+        background-color: #155cdb;
+        width: 100%;
+    }
+        
+    .post {
+        font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+        height: 100vh;
+        margin: 0;
+    }
+    
+body{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: #ddd;
+}
+
+#nav{
+    background-color: #0b347c;
+    margin-bottom: 200px;
+    height: 80px;
+}
+
+    .container {
+        background-color: #ffffff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: 100%;
+        max-width: 600px;
+    }
+    
+    h1 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    
+    textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+    
+    button {
+        background-color: #1877f2;
+        color: #ffffff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: #155cdb;
+    }
+    
+    .post-list {
+        margin-top: 20px;
+    }
+    
+    .post {
+        background-color: #f1f3f4;
+        border-radius: 4px;
+        padding: 10px;
+        margin-bottom: 10px;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    }
+    
